@@ -2,6 +2,8 @@
 
 ### Este é um repositório com os links utilizados como referência e sugestões na apresentação do [BB DataCon Week 2020](https://bbdataconweek.com.br/)
 
+![Logo BB DataCon Week](https://github.com/pedrolacerda/links-datascience-banco-do-brasil/blob/master/logo_p_amarelo-1-2048x353.png "Logo BB DataCon Week")
+
 
 ## Projetos de exemplo
 
